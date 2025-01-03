@@ -1,0 +1,56 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.tree.indent": 16,
+  "editor.fontFamily": "Dank Mono, Geist Mono",
+  "editor.fontWeight": "500",
+  "workbench.colorTheme": "Aurora X",
+  "editor.wordWrap": "on",
+  "workbench.productIconTheme": "fluent-icons",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "vscode-edge-devtools.webhintInstallNotification": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.indentSize": "tabSize",
+  "codeium.enableCodeLens": false,
+  "editor.tabSize": 2,
+  "window.zoomLevel": 3,
+  "editor.lineHeight": 25,
+  "editor.lineNumbers": "off",
+  "editor.fontSize": 14,
+  "editor.cursorBlinking": "expand",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09', 'zero', 'onum'",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "string", "storage", "meta.type"],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "java.debug.settings.enableRunDebugCodeLens": false,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "explorer.decorations.colors": false,
+  "explorer.compactFolders": false,
+  "terminal.integrated.fontFamily": "Comic Mono",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.navigationControl.enabled": false,
+  "reactSnippets.settings.importReactOnTop": false,
+  "workbench.activityBar.location": "top",
+  "breadcrumbs.enabled": false,
+  "workbench.editor.showTabs": "single",
+  "window.title": " ",
+  "editor.minimap.enabled": false,
+  "vscode_custom_css.imports": [
+    "your/path/for/this/extension"
+  ],
+  "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "window.titleBarStyle": "native",
+  "window.customTitleBarVisibility": "never"
+}
