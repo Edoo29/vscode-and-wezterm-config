@@ -1,5 +1,5 @@
 # My VSCode and Wezterm configs!
-I've spent a lot of time for these configs...⏲️
+I've spent a lot of time for these configs...
 
 ## VSCode
 Some good settings that I use:
